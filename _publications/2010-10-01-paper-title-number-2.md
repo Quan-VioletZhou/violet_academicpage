@@ -4,7 +4,7 @@ collection: Imaging Neuroscience
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about longitudinal study of GABA.'
-date: 2024
+date: 2024-1-15
 venue: 'Imaging Neuroscience'
 # slidesurl: 'http://academicpages.github.io/files/GABA_paper.pdf'
 paperurl: 'http://academicpages.github.io/files/GABA_paper.pdf'
