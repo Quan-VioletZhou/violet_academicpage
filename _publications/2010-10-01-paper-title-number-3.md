@@ -3,7 +3,7 @@ title: "Examining Dedifferentiation in Whole-Brain Connectivity: A Longitudinal 
 # collection: 
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-3
-excerpt: 'This paper used a mixed-model on both cross-sectional and longitudinal aging effect on brain connectivity. Inprep'
+excerpt: 'This paper used a mixed-model on both cross-sectional and longitudinal aging effect on brain connectivity. In prep'
 # date: 2024-1-15
 # venue: 'Imaging Neuroscience'
 # slidesurl: 'http://academicpages.github.io/files/GABA_paper.pdf'
