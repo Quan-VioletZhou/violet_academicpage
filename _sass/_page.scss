@@ -11,12 +11,17 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  max-width: 1200px; /* Set desired page width */
+  margin: 0 auto; /* Center the content */
+
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 1200px; /* Ensure consistency for large screens */
   }
 }
 
 .page {
+  max-width: 1200px; /* Set a maximum width */
+  margin: 0 auto; /* Center the content */
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
