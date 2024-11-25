@@ -17,11 +17,11 @@ main:
   - title: "Project"
     url: /Project/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV/Resume"
     url: /files/Zhou_Resume_Oct.24.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

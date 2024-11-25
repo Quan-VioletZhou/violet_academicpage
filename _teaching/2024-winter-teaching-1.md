@@ -2,7 +2,7 @@
 title: "Graduate Student Instructor for Cognitive Psychology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-winter-teaching-1
 venue: "University of Michigan, Psychology Department"
 date: 2024-01-08
 location: "Ann Arbor, MI"
