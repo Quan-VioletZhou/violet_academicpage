@@ -8,7 +8,7 @@ date: 2024-01-08
 location: "Ann Arbor, MI"
 ---
 
-Psychology 240: Introduction to Cognitive Psychology
+**Psychology 240: Introduction to Cognitive Psychology**
 
 **Course Description**. The field of Cognitive Psychology includes the psychology of
 human perception, attention, memory, language, thinking (including problem
@@ -17,12 +17,3 @@ data and theory about the relationship between cognition, brain function, and
 computation. The course will emphasize not only the content represented by these
 topics, but also the processes by which researchers develop theories and collect
 evidence.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
