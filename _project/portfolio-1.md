@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Computationa Modeling Project on GABAergic Divisive Normalization Effect on Neural Distinctiveness"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 permalink: /project/portfolio-1/
