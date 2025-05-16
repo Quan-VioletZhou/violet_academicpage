@@ -3,7 +3,7 @@ title: "GABA levels decline with age: A longitudinal study"
 collection: Imaging Neuroscience
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about longitudinal study of GABA.'
+excerpt: 'This study used a longitudinal design with MR spectroscopy to measure GABA levels in bilateral auditory, sensorimotor, and ventrovisual brain regions in 30 healthy older adults over two time points. Unlike previous cross-sectional studies, this approach allowed the researchers to track within-subject changes in GABA over time while controlling for age-related tissue atrophy using two common correction strategies. The goal was to clarify whether GABA declines with age independent of structural brain changes.'
 date: 2024-1-15
 venue: 'Imaging Neuroscience'
 # slidesurl: 'http://academicpages.github.io/files/GABA_paper.pdf'
