@@ -7,7 +7,7 @@ excerpt: 'This paper is about longitudinal study of GABA.'
 date: 2024-1-15
 venue: 'Imaging Neuroscience'
 # slidesurl: 'http://academicpages.github.io/files/GABA_paper.pdf'
-paperurl: 'http://academicpages.github.io/files/GABA_paper.pdf'
+paperurl: 'https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00224/123270'
 citation: 'Mark D. Zuppichini, Abbey M. Hamlin, Quan Zhou, Esther Kim, Shreya Rajagopal, Adriene M. Beltz, Thad A. Polk; GABA levels decline with age: A longitudinal study. Imaging Neuroscience 2024; 2 1–15. doi: https://doi.org/10.1162/imag_a_00224.'
 ---
 
