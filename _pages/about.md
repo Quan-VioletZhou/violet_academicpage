@@ -13,7 +13,7 @@ Hi there! I’m Quan (Violet) Zhou, a second-year Ph.D. researcher in the fascin
 
 ### 🎓 Education 
 Ph.D. in Cognition and Cognitive Neuroscience & Scientific Computing (2023 - present)
-University of Michigan, Ann Arbor, TX
+University of Michigan, Ann Arbor, MI
 
 M.Ed. in Educational Psychology (2019 - 2021)
 University of Texas at Austin, Austin, TX 
